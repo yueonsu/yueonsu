@@ -23,15 +23,4 @@
 http://fitbook.shop/
 
 ## Education ✏
-- 경북대학교 영어영문학 전공 졸업 (2013.03 ~ 2021.02)
 - 코리아IT아카데미 웹 개발자 양성 과정 수료 (2021.09 ~ 2022.03)
-
-## Certification
-- 컴퓨터활용능력 1급 (2020)
-- 사무자동화산업기사 (2019)
-
-## Algorithm Study
-- 백준
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/songbiz)
