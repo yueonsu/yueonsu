@@ -23,3 +23,9 @@ http://fitbook.shop/
 
 ## Education ✏
 - 코리아IT아카데미 웹 개발자 양성 과정 수료 (2021.09 ~ 2022.03)
+
+## Algorithm Study
+- 백준
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kied1594)](https://solved.ac/kied1594)
