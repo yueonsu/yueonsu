@@ -19,6 +19,11 @@
 
 http://fitbook.shop/
 
+### [cyworld - 싸이월드](http://www.github.com/cykoproject/cyproject)
+
+- 개발 기간 : 2022.03.27 ~ 2022.06.01
+
+JPA, MariaDB, Spring Boot, JavaScript, Thymeleaf를 사용하여 기획부터 DB설계, 백엔드와 프론트엔드 로직 개발, 배포를 제외한 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다.
 
 http://www.github.com/cykoproject/cyproject
 
