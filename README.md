@@ -27,7 +27,8 @@ http://fitbook.shop/
 
 - 개발 기간 : 2022.03.27 ~ 2022.06.01
 
-JPA, MariaDB, Spring Boot, JavaScript, Thymeleaf를 사용하여 기획부터 DB설계, 백엔드와 프론트엔드 로직 개발, 배포를 제외한 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다.
+JPA, MariaDB, Spring Boot, JavaScript, Thymeleaf를 사용하여 기획부터 DB설계, 백엔드와 프론트엔드 로직 개발, 배포를 제외한 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다. WebSocket을 활용한 쪽지 송,수신 온라인 중인 친구표시 등을 구현하였습니다. 
+javascript로 웹에디터를 직접 구현해서 글쓰기나 수정할 때 웹에디터Object를 재사용하여 소스 중복을 최대한 막으며 개발했습니다.
 
 http://www.github.com/cykoproject/cyproject
 
