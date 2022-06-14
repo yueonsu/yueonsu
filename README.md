@@ -19,6 +19,9 @@
 
 http://fitbook.shop/
 
+
+http://www.github.com/cykoproject/cyproject
+
 ## Education ✏
 - 코리아IT아카데미 웹 개발자 양성 과정 수료 (2021.09 ~ 2022.03)
 - 영진전문대학 부사관계열 정보통신전공 졸업(2016.03 ~ 2019.02)
