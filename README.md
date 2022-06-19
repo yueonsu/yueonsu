@@ -1,6 +1,5 @@
 # Welcome To My GitHub!
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=yueonsu&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=yueonsu&layout=compact&theme=dracula)
+### https://www.notion.so/yueonsu/45e4f196d24b482fa3a6cf6d0a993e01
 
 ## 🛠 Skill 🛠 
 ### Backend
